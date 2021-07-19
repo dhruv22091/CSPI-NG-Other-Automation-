@@ -1,0 +1,11 @@
+<CSPI>
+	<WorldCheckURL>https://www.world-check.com/portal/mod_perl/Login</WorldCheckURL>
+	<CredentialName>CSPILogin</CredentialName>
+	<CSPIUrl>https://cspi.fadv.com/cspi/</CSPIUrl>
+	
+	<BootstrapServer>10.2.60.159:9092</BootstrapServer>
+	<GroupId>cspi-auto-tagging-B39</GroupId>
+	<RequestTopic>Annexure-Download-Request</RequestTopic>
+	<ResponseTopic>Annexure-Download-Response</ResponseTopic>
+	
+</CSPI>
